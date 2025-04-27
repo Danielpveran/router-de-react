@@ -1,6 +1,7 @@
 import React from 'react';
 import DalliatLogo from './img/DalliatLogo.jpg';
 import './MainContent.css';
+import '../App.css';
 
 const MainContent = () => {
     const items = [
